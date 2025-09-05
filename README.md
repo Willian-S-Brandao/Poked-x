@@ -28,7 +28,7 @@ git clone https://github.com/SeuUsuario/pokedex.git
 🔗 Link Online
 
 Acesse a Pokédex online: https://seuusuario.github.io/pokedex/
-
+```
 📂 Estrutura do projeto
 pokedex/
 ├─ index.html
