@@ -15,7 +15,7 @@ Uma Pokédex feita com **HTML, CSS e JavaScript**, que permite buscar Pokémons 
 
 ## 📝 Funcionalidades
 - Buscar Pokémon pelo nome ou número
-- Mostrar imagem, tipo, habilidades e estatísticas
+- Mostrar imagem
 - Layout responsivo e interativo
 
 ## 💻 Como usar
