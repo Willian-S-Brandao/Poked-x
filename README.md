@@ -22,3 +22,22 @@ Uma Pokédex feita com **HTML, CSS e JavaScript**, que permite buscar Pokémons 
 1. Clone o repositório:  
 ```bash
 git clone https://github.com/SeuUsuario/pokedex.git
+
+2. Abra o arquivo index.html no navegador.
+
+🔗 Link Online
+
+Acesse a Pokédex online: https://seuusuario.github.io/pokedex/
+
+📂 Estrutura do projeto
+pokedex/
+├─ index.html
+├─ style.css
+├─ script.js
+├─ imagens/
+└─ README.md
+
+✨ Autor
+
+Willian Brandão
+GitHub
