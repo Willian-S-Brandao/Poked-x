@@ -38,6 +38,6 @@ pokedex/
 └─ README.md
 
 ✨ Autor
-
+```
 Willian Brandão
 GitHub
