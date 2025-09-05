@@ -9,8 +9,9 @@ Uma Pokédex feita com **HTML, CSS e JavaScript**, que permite buscar informaç�
 - API: [PokéAPI](https://pokeapi.co/)
 
 ## 📸 Screenshots
-![Pokédex](screenshot.png)
-*(adicione uma captura de tela da sua Pokédex aqui)*
+
+<img width="332" height="139" alt="image" src="https://github.com/user-attachments/assets/d3d09b23-3dc2-481e-b4b9-2621a55360a0" />
+
 
 ## 📝 Funcionalidades
 - Buscar Pokémon pelo nome ou número
