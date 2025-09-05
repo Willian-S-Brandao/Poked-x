@@ -10,7 +10,7 @@ Uma Pokédex feita com **HTML, CSS e JavaScript**, que permite buscar informaç�
 
 ## 📸 Screenshots
 
-<img width="332" height="139" alt="image" src="https://github.com/user-attachments/assets/d3d09b23-3dc2-481e-b4b9-2621a55360a0" />
+<img width="644" height="686" alt="image" src="https://github.com/user-attachments/assets/d3074629-342f-4449-aad8-a9af0d944b41" />
 
 
 ## 📝 Funcionalidades
