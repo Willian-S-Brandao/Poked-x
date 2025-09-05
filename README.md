@@ -1,6 +1,6 @@
 # Pokédex
 
-Uma Pokédex feita com **HTML, CSS e JavaScript**, que permite buscar informações de Pokémons de forma interativa.  
+Uma Pokédex feita com **HTML, CSS e JavaScript**, que permite buscar Pokémons de forma interativa.
 
 ## 🚀 Tecnologias
 - HTML5
